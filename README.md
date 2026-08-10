@@ -1,4 +1,4 @@
-# Hi, I'm Yrma Martins
+# Yrma Martins
 
 **Junior Software Engineer | Bachelor's Degree in Computer Engineering**
 
