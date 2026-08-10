@@ -1,8 +1,8 @@
 # Hi, I'm Yrma Martins
 
-**Junior Software Engineer | BSc in Computer Engineering**
+**Junior Software Engineer | Bachelor's Degree in Computer Engineering**
 
-I recently completed a **BSc in Computer Engineering** at 
+I recently completed a **Bachelor's Degree in Computer Engineering** at 
 [Universidade Aberta](https://portal.uab.pt/), Portugal, with a **final grade of 17/20** 
 (Portuguese grading scale).
 
@@ -14,7 +14,7 @@ I enjoy building reliable software and exploring problems from different perspec
 
 ## Education
 
-### BSc in Computer Engineering
+### Bachelor's Degree in Computer Engineering
 **Universidade Aberta — Department of Science and Technology**  
 **180 ECTS | Final Grade: 17/20**
 
