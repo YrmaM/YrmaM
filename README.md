@@ -18,7 +18,7 @@ I enjoy building reliable software and exploring problems from different perspec
 **Universidade Aberta — Department of Science and Technology**  
 **180 ECTS | Final Grade: 17/20**
 
-[Official degree programme]([https://guiadoscursos.uab.pt/en/cursos/licenciatura-em-engenharia-informatica/](https://guiadoscursos.uab.pt/en/cursos/licenciatura-em-engenharia-informatica/))
+[Official degree programme](https://guiadoscursos.uab.pt/en/cursos/licenciatura-em-engenharia-informatica/)
 
 The programme provided a broad foundation in software engineering and computer science, including:
 
