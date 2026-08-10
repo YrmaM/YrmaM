@@ -1,4 +1,4 @@
-# Hi, I'm Yrma Martins 👋
+# Hi, I'm Yrma Martins
 
 **Junior Software Engineer | BSc in Computer Engineering**
 
@@ -12,13 +12,13 @@ I enjoy building reliable software and exploring problems from different perspec
 
 ---
 
-## 🎓 Education
+## Education
 
 ### BSc in Computer Engineering
 **Universidade Aberta — Department of Science and Technology**  
 **180 ECTS | Final Grade: 17/20**
 
-🔗 [Official degree programme](https://guiadoscursos.uab.pt/en/cursos/licenciatura-em-engenharia-informatica/)
+[Official degree programme](https://guiadoscursos.uab.pt/en/cursos/licenciatura-em-engenharia-informatica/)
 
 The programme provided a broad foundation in software engineering and computer science, including:
 
@@ -37,7 +37,7 @@ My final-year work included the development of a complete software engineering p
 
 ---
 
-## 🛠️ Core Technologies
+## Core Technologies
 
 **Languages**  
 `Python` · `JavaScript` · `PHP` · `SQL` · `C` · `Java`
@@ -56,7 +56,7 @@ My final-year work included the development of a complete software engineering p
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [MOCP Compiler](https://github.com/YrmaM/mocp-compiler)
 Compiler developed with **Python and ANTLR4**, featuring lexical and syntax analysis, AST construction, semantic validation, three-address code generation, optimisation, and Python code generation.
@@ -75,7 +75,7 @@ Interactive **Three.js / WebGL** simulation featuring animated planetary motion,
 
 ---
 
-## 💡 What I'm Looking For
+## What I'm Looking For
 
 I am looking for a **Junior or Graduate Software Engineering role** where I can contribute to real-world software development, learn from experienced engineers and continue growing as a developer.
 
@@ -90,6 +90,6 @@ I am particularly interested in opportunities involving:
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/yrma-martins-915598337/)
