@@ -40,7 +40,7 @@ My final-year work included the development of a complete software engineering p
 ## Core Technologies
 
 **Languages**  
-`Python` · `JavaScript` · `PHP` · `SQL` · `C` · `Java`
+`Python` · `JavaScript` · `PHP` · `SQL` · `C` · `C++` · `C#` · `Java` · `OCaml`
 
 **Backend & Web**  
 `FastAPI` · `REST APIs` · `HTML` · `CSS` · `MySQL` · `SQLite`
@@ -57,6 +57,9 @@ My final-year work included the development of a complete software engineering p
 ---
 
 ## Featured Projects
+
+### [Zero Papeis](https://github.com/YrmaM/zero-papeis-showcase)
+Final-year project developed by a two-person team: a web platform for organizing personal documents, with OCR-based text extraction, regular-expression and heuristic parsing, and AI-assisted refinement.
 
 ### [MOCP Compiler](https://github.com/YrmaM/mocp-compiler)
 Compiler developed with **Python and ANTLR4**, featuring lexical and syntax analysis, AST construction, semantic validation, three-address code generation, optimisation, and Python code generation.
