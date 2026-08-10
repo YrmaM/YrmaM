@@ -2,9 +2,7 @@
 
 **Junior Software Engineer | Bachelor's Degree in Computer Engineering**
 
-I recently completed a **Bachelor's Degree in Computer Engineering** at 
-[Universidade Aberta](https://portal.uab.pt/), Portugal, with a **final grade of 17/20** 
-(Portuguese grading scale).
+I hold a **Bachelor's Degree in Computer Engineering** from Universidade Aberta, Portugal, with a **final grade of 17/20** (Portuguese grading scale).
 
 I am currently looking for **Junior / Graduate Software Engineering opportunities in the Netherlands**.
 
@@ -39,20 +37,23 @@ My final-year work included the development of a complete software engineering p
 
 ## Core Technologies
 
-**Languages**  
-`Python` · `JavaScript` · `PHP` · `SQL` · `C` · `C++` · `C#` · `Java` · `OCaml`
+**Programming Languages**  
+`Python` · `JavaScript` · `PHP` · `Java` · `C` · `C++` · `C#` · `OCaml` · `Prolog`
 
-**Backend & Web**  
-`FastAPI` · `REST APIs` · `HTML` · `CSS` · `MySQL` · `SQLite`
+**Web & Backend**  
+`FastAPI` · `Pydantic` · `SQLAlchemy` · `REST APIs` · `HTML5` · `CSS3`
 
-**Artificial Intelligence & Integration**  
-`AI Integration` · `AI-assisted Software` · `Search Algorithms` · `Heuristic Search` · `OCR` · `LLM APIs`
+**Databases & Data**  
+`SQL` · `MySQL` · `SQLite` · `JSON` · `CSV`
+
+**Artificial Intelligence & AI Integration**  
+`AI Integration` · `LLM APIs` · `OCR` · `Search Algorithms` · `Heuristic Search` · `A*` · `BFS` · `DFS`
 
 **Computer Science & Software Engineering**  
-`Object-Oriented Programming` · `Data Structures & Algorithms` · `Compilers` · `Distributed Systems`
+`Object-Oriented Programming` · `Data Structures & Algorithms` · `Compiler Construction` · `Distributed Systems` · `Software Testing`
 
-**Other**  
-`Git` · `Three.js` · `WebGL` · `GLSL`
+**Tools & Technologies**  
+`Git` · `GitHub` · `Postman` · `ANTLR4` · `Three.js` · `WebGL` · `GLSL`
 
 ---
 
